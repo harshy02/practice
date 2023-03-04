@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(231, 224, 226);
+  display: block;
+  text-align: center;
+  font-family: 'Roboto','Open Sans', 'Helvetica Neue';
+}
+h1 {
+  color: black;
+  font-size: 80px;
+}
+.box {
+  margin: auto;
+  width: fit-content;
+  background-color: black;
+  color: white;
+  padding:25px 25px;
+  border-radius:5px;
+  font-size: 50px;
+  letter-spacing: 5px;
+}
+#btn {
+  margin-top: 20px;
+  border-radius: 2px;
+  border-width: 1px;
+}
